@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Topor/static/css/main.c84e3405.chunk.css",
-    "main.js": "/Topor/static/js/main.3a8c3104.chunk.js",
-    "main.js.map": "/Topor/static/js/main.3a8c3104.chunk.js.map",
+    "main.css": "/Topor/static/css/main.c1f2eaae.chunk.css",
+    "main.js": "/Topor/static/js/main.18fe20a0.chunk.js",
+    "main.js.map": "/Topor/static/js/main.18fe20a0.chunk.js.map",
     "runtime-main.js": "/Topor/static/js/runtime-main.ec67262e.js",
     "runtime-main.js.map": "/Topor/static/js/runtime-main.ec67262e.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/Topor/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.0500ad23.chunk.js": "/Topor/static/js/2.0500ad23.chunk.js",
-    "static/js/2.0500ad23.chunk.js.map": "/Topor/static/js/2.0500ad23.chunk.js.map",
+    "static/js/2.78a38084.chunk.js": "/Topor/static/js/2.78a38084.chunk.js",
+    "static/js/2.78a38084.chunk.js.map": "/Topor/static/js/2.78a38084.chunk.js.map",
     "index.html": "/Topor/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/Topor/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.c84e3405.chunk.css.map": "/Topor/static/css/main.c84e3405.chunk.css.map",
-    "static/js/2.0500ad23.chunk.js.LICENSE.txt": "/Topor/static/js/2.0500ad23.chunk.js.LICENSE.txt",
-    "static/media/CV.3b302851.pdf": "/Topor/static/media/CV.3b302851.pdf",
-    "static/media/List.5c196ac6.JPG": "/Topor/static/media/List.5c196ac6.JPG",
+    "static/css/main.c1f2eaae.chunk.css.map": "/Topor/static/css/main.c1f2eaae.chunk.css.map",
+    "static/js/2.78a38084.chunk.js.LICENSE.txt": "/Topor/static/js/2.78a38084.chunk.js.LICENSE.txt",
+    "static/media/TomaszToporPortfolio.8c082716.pdf": "/Topor/static/media/TomaszToporPortfolio.8c082716.pdf",
+    "static/media/covidMap.a3b382ca.JPG": "/Topor/static/media/covidMap.a3b382ca.JPG",
     "static/media/drag-drop.a63722b8.JPG": "/Topor/static/media/drag-drop.a63722b8.JPG",
     "static/media/img.9a281fb7.jpg": "/Topor/static/media/img.9a281fb7.jpg",
     "static/media/validator.a3d8db0a.JPG": "/Topor/static/media/validator.a3d8db0a.JPG"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.ec67262e.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.0500ad23.chunk.js",
-    "static/css/main.c84e3405.chunk.css",
-    "static/js/main.3a8c3104.chunk.js"
+    "static/js/2.78a38084.chunk.js",
+    "static/css/main.c1f2eaae.chunk.css",
+    "static/js/main.18fe20a0.chunk.js"
   ]
 }
