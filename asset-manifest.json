@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Topor/static/css/main.213de9ce.chunk.css",
-    "main.js": "/Topor/static/js/main.4b057ffb.chunk.js",
-    "main.js.map": "/Topor/static/js/main.4b057ffb.chunk.js.map",
+    "main.css": "/Topor/static/css/main.91375c88.chunk.css",
+    "main.js": "/Topor/static/js/main.c47c1458.chunk.js",
+    "main.js.map": "/Topor/static/js/main.c47c1458.chunk.js.map",
     "runtime-main.js": "/Topor/static/js/runtime-main.ec67262e.js",
     "runtime-main.js.map": "/Topor/static/js/runtime-main.ec67262e.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/Topor/static/css/2.7fc9bc2b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.78a38084.chunk.js.map": "/Topor/static/js/2.78a38084.chunk.js.map",
     "index.html": "/Topor/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/Topor/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.213de9ce.chunk.css.map": "/Topor/static/css/main.213de9ce.chunk.css.map",
+    "static/css/main.91375c88.chunk.css.map": "/Topor/static/css/main.91375c88.chunk.css.map",
     "static/js/2.78a38084.chunk.js.LICENSE.txt": "/Topor/static/js/2.78a38084.chunk.js.LICENSE.txt",
     "static/media/TomaszToporPortfolio.8c082716.pdf": "/Topor/static/media/TomaszToporPortfolio.8c082716.pdf",
     "static/media/covidMap.a3b382ca.JPG": "/Topor/static/media/covidMap.a3b382ca.JPG",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.ec67262e.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.78a38084.chunk.js",
-    "static/css/main.213de9ce.chunk.css",
-    "static/js/main.4b057ffb.chunk.js"
+    "static/css/main.91375c88.chunk.css",
+    "static/js/main.c47c1458.chunk.js"
   ]
 }
