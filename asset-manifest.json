@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Topor/static/css/main.1e806197.chunk.css",
-    "main.js": "/Topor/static/js/main.56ce53b2.chunk.js",
-    "main.js.map": "/Topor/static/js/main.56ce53b2.chunk.js.map",
+    "main.js": "/Topor/static/js/main.fdea20a4.chunk.js",
+    "main.js.map": "/Topor/static/js/main.fdea20a4.chunk.js.map",
     "runtime-main.js": "/Topor/static/js/runtime-main.ec67262e.js",
     "runtime-main.js.map": "/Topor/static/js/runtime-main.ec67262e.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/Topor/static/css/2.7fc9bc2b.chunk.css",
@@ -13,16 +13,16 @@
     "static/css/main.1e806197.chunk.css.map": "/Topor/static/css/main.1e806197.chunk.css.map",
     "static/js/2.78a38084.chunk.js.LICENSE.txt": "/Topor/static/js/2.78a38084.chunk.js.LICENSE.txt",
     "static/media/ToporCV.dac94e7e.pdf": "/Topor/static/media/ToporCV.dac94e7e.pdf",
+    "static/media/account.429a34d5.JPG": "/Topor/static/media/account.429a34d5.JPG",
     "static/media/covidMap.a3b382ca.JPG": "/Topor/static/media/covidMap.a3b382ca.JPG",
     "static/media/drag-drop.a63722b8.JPG": "/Topor/static/media/drag-drop.a63722b8.JPG",
-    "static/media/img.9a281fb7.jpg": "/Topor/static/media/img.9a281fb7.jpg",
-    "static/media/validator.a3d8db0a.JPG": "/Topor/static/media/validator.a3d8db0a.JPG"
+    "static/media/img.9a281fb7.jpg": "/Topor/static/media/img.9a281fb7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ec67262e.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.78a38084.chunk.js",
     "static/css/main.1e806197.chunk.css",
-    "static/js/main.56ce53b2.chunk.js"
+    "static/js/main.fdea20a4.chunk.js"
   ]
 }
